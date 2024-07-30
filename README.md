@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yash-goswami23
 - 👀 I’m interested in Programming or Gaming 
-- 🌱 I’m currently learning Jetpack Compose or Mobile App Texting, Responce Ui\ux, 
+- 🌱 I’m currently learning Flutter Mobile App Development or Ui/Ux Desgin, 
 - 💞️ I’m looking to collaborate on Application Development 
 - 📫 How to reach me (mail :- yashuuu0003@gmail.com , Linkedin :- https://www.linkedin.com/in/yash-goswami-58b87625a/)
 - 😄 Pronouns: ...
