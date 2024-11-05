@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming or Gaming, writing. 
 - 🌱 I’m currently learning Flutter Mobile App Development or Ui/Ux Desgin.
 - 💞️ I’m looking to collaborate on Application Development.
-- 📫 How to reach me (mail :- developer.yash23@gmail.com , Linkedin :- https://www.linkedin.com/in/yash-goswami-58b87625a/)
+- 📫 How to reach me (mail :- developer.yash23@gmail.com, presnol mail: yashuuu0003@gmail.com , Linkedin :- https://www.linkedin.com/in/yash-goswami-58b87625a/)
 - Free Lance Work Create Application With Flutter Development. 
 
 <!---
