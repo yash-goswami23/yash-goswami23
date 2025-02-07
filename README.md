@@ -36,7 +36,6 @@ I am a **passionate Flutter Developer** with experience in building **scalable, 
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-goswami23&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-goswami23&layout=compact)  
 
 ---
