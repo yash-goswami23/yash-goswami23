@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Yash Goswami!  
-### 🚀 Flutter Developer | Android Developer | UI/UX Enthusiast  
+### 🚀 Flutter Developer | Mobiile App Developer | UI/UX Enthusiast  
 
 I am a **passionate Flutter Developer** with experience in building **scalable, high-performance mobile applications**. I specialize in **Flutter, Dart, Firebase, Bloc State Management, and REST APIs** to create smooth cross-platform apps for Android and iOS.  
 
 🔹 **Tech Stack:**  
-✔ **Languages:** Dart, Java, Kotlin  
+✔ **Languages:** Dart, python  
 ✔ **Frameworks:** Flutter, Android SDK  
-✔ **State Management:** Bloc, Provider  
-✔ **Databases:** Firebase Firestore, SQFLite  
+✔ **State Management:** Bloc, Provider, Get X.  
+✔ **Databases:** Firebase Firestore, SQFLite, Local Stroage.  
 ✔ **APIs:** RESTful APIs, HTTP, JSON Parsing  
-✔ **Version Control:** Git, GitHub  
+✔ **Version Control:** Git, GitHub, Postman  
 ✔ **UI/UX:** Figma, Canva  
 
 💡 **I love building mobile apps that solve real-world problems!**  
@@ -17,7 +17,7 @@ I am a **passionate Flutter Developer** with experience in building **scalable, 
 📫 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yash-goswami-58b87625a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yash-goswami23)  
-
+yashgoswami.dev23@gmail.com
 ---
 
 ## 🔥 **Projects Showcase**  
